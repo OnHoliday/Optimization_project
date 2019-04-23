@@ -1,0 +1,172 @@
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,0,0.1600831600831601,0.12863070539419086,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,-0.004428844661121138
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,1,0.1787941787941788,0.18672199170124482,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,0.0009701877952420467
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,2,0.18607068607068608,0.14522821576763487,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,-0.004024359192621322
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,3,0.21101871101871103,0.22406639004149378,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,0.010784121412307767
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,4,0.23492723492723494,0.24896265560165975,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,0.004336504956734006
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,5,0.23492723492723494,0.24896265560165975,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,-0.008584811715761195
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,6,0.26195426195426197,0.26556016597510373,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,0.009254154508608874
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,7,0.26195426195426197,0.26556016597510373,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,-0.005788776383167785
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,8,0.2796257796257796,0.29045643153526973,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,0.003284753694965812
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.genetic_algorithm,9,0.2796257796257796,0.29045643153526973,20,tournament_selection,one_point_crossover,0.5,ball_mutation,None,None,0.9,0.0002282785780418524
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,0,0.10602910602910603,0.08713692946058091,20,ball_mutation,1.8,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,1,0.11746361746361747,0.0954356846473029,20,ball_mutation,1.62,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,2,0.08731808731808732,0.058091286307053944,20,ball_mutation,1.4580000000000002,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,3,0.09251559251559252,0.1037344398340249,20,ball_mutation,1.3122000000000003,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,4,0.0893970893970894,0.08713692946058091,20,ball_mutation,1.1809800000000004,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,5,0.09355509355509356,0.0995850622406639,20,ball_mutation,1.0628820000000003,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,6,0.08523908523908524,0.07883817427385892,20,ball_mutation,0.9565938000000003,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,7,0.07172557172557173,0.06224066390041494,20,ball_mutation,0.8609344200000003,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,8,0.0997920997920998,0.08298755186721991,20,ball_mutation,0.7748409780000003,0.9
+<class 'problems.ANNOP.ANNOP'>,2862341431872,algorithms.simulated_annealing,9,0.0498960498960499,0.03734439834024896,20,ball_mutation,0.6973568802000003,0.9
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos

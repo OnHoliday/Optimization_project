@@ -1,0 +1,54 @@
+<class 'problems.ANNOP.ANNOP'>,1500225905792,algorithms.adaptive_selection_GA,[0, 0.19542619542619544, 0.16597510373443983, 40, 'tournament_selection', 'two_point_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x0000015D4C6EA480>, None, 0.95, 0.15, 1.01, 0.004150443593676546, 32805.7342111278],1.1585566530806266
+<class 'problems.ANNOP.ANNOP'>,1500225905792,algorithms.adaptive_selection_GA,[1, 0.19542619542619544, 0.16597510373443983, 40, 'tournament_selection', 'two_point_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x0000015D4C6EA480>, None, 0.95, 0.15, 1.01, -0.005394774948870876, 30731.310445603736],1.188870814155369
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos

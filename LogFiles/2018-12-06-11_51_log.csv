@@ -1,0 +1,37 @@
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[0, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, 0.012688578280754533, 32807.7981826224],1.1570168368340088
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[1, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, -0.006814398900277192, 28151.731652114082],1.189391197004663
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[2, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, 0.0032096068863557703, 26391.500367814882],1.2276261299942852
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[3, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, -0.0008070108061455292, 23004.96551866889],1.2672684900377873
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[4, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, 0.0011319890047913617, 14632.201613507548],1.2953671208677144
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[5, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, -0.0023693510524621375, 13084.611359038254],1.3321549722018167
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[6, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, -0.010185709865211633, 12602.878228562691],1.3517553941023968
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[7, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, 0.005404497138626001, 11988.030433822667],1.3984389949163436
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[8, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, 0.009638362908461186, 11950.986345132875],1.4181542487987475
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[9, 0.21621621621621623, 0.18672199170124482, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, -0.004640504101449387, 12236.537288735195],1.4389581140551009
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[10, 0.22661122661122662, 0.22821576763485477, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, 0.010199683138765007, 11875.413510690654],1.4689116735611456
+<class 'problems.ANNOP.ANNOP'>,2563995269016,algorithms.GA_with_plotting,[11, 0.23076923076923078, 0.21991701244813278, 40, 'tournament_selection', 'uniform_crossover', 0.95, 'ball_mutation', <mtrand.RandomState object at 0x00000254FA06F798>, None, 0.95, -0.009054363752338819, 11244.168128713187],1.4804759426914906
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.33 to DejaVu Sans ('C:\\Users\\jojo\\PycharmProjects\\OfficialBaseline\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos

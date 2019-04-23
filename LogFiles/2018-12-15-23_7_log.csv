@@ -1,0 +1,140 @@
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('D:\\Python3.7\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to DejaVu Sans ('D:\\Python3.7\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[0, 0.19126819126819128, 0.1908713692946058, 40, 'tournament_selection', 'crossover_weight', 1.0, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0, 0.004915970373073772, 32807.7981826224],1.1570168368340088
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[1, 0.19126819126819128, 0.1908713692946058, 40, 'tournament_selection', 'crossover_weight', 0.9885364627416668, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0, 0.0014798360851077628, 29027.89872817495],1.1901133050535029
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[2, 0.2151767151767152, 0.23651452282157676, 40, 'tournament_selection', 'crossover_weight', 0.9752364210584265, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.015022106453527, 0.005563760429660204, 25700.274742159403],1.2293527168141385
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[3, 0.23076923076923078, 0.22821576763485477, 40, 'tournament_selection', 'crossover_weight', 0.9589358360275029, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0370133892946714, -0.004407120968698282, 21839.552111543315],1.2683859017417882
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[4, 0.25675675675675674, 0.24896265560165975, 40, 'tournament_selection', 'crossover_weight', 0.9432900699438781, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.064543106370238, 0.004481844483431932, 17107.83479666678],1.3038354530101093
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[5, 0.2785862785862786, 0.27385892116182575, 40, 'tournament_selection', 'crossover_weight', 0.9464264090020337, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0568305567533682, 0.0026430679098963863, 12566.197662665034],1.3308297090184205
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[6, 0.2785862785862786, 0.27385892116182575, 40, 'tournament_selection', 'crossover_weight', 0.9489345314142119, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0511211761179808, -0.0069754147139564765, 13476.61098823863],1.3615613785000322
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[7, 0.2869022869022869, 0.26141078838174275, 40, 'tournament_selection', 'crossover_weight', 0.9501377846804262, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.048536569804608, 0.00640071001192543, 14204.666222024372],1.397462818689391
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[8, 0.2910602910602911, 0.3070539419087137, 40, 'tournament_selection', 'crossover_weight', 0.9443161573265325, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0607113980608622, 0.002743366582906706, 14553.945361584538],1.4197150412423258
+<class 'problems.ANNOP.ANNOP'>,489885048,algorithms.AGA_4p,[9, 0.2910602910602911, 0.3070539419087137, 40, 'tournament_selection', 'crossover_weight', 0.9410759904325572, 'ball_mutation', <mtrand.RandomState object at 0x1D330D78>, None, 1.0684667680283784, -0.016014634164761947, 12864.049268964547],1.4404271956277954
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('D:\\Python3.7\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.33 to DejaVu Sans ('D:\\Python3.7\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=18.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
+matplotlib.axes._base,update_title_pos
